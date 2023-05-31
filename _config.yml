@@ -1,9 +1,9 @@
-name: 
-author: 
-url: 
+name: Moechine
+author: Moechine
+url: https://moechinehaa.github.io/
 baseurl: 
 resume_site: 
-description: 
+description: 一些記錄雜談和筆記的地方
 github_username: 
 github: 
 plugins: [jekyll-paginate]
