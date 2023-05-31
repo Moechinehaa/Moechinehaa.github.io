@@ -5,7 +5,7 @@ baseurl:
 resume_site: 
 description: 一些記錄雜談和筆記的地方
 github_username: Moechinhaa
-github: https://github.com/Moechinhaa
+github: https://github.com/Moechinehaa/
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
