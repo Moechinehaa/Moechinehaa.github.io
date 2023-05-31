@@ -1,11 +1,11 @@
-name: Moechine
+name: Moechine BLOG
 author: Moechine
 url: https://moechinehaa.github.io/
 baseurl: 
 resume_site: 
 description: 一些記錄雜談和筆記的地方
-github_username: 
-github: 
+github_username: Moechinhaa
+github: https://github.com/Moechinhaa
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
