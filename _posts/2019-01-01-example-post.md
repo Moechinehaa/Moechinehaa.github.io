@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Example Post
+title: 畢業雜記
 date: 2019-01-01 00:00:00 +0800
 category: tutorial
-thumbnail: /style/image/logo.jpg
+thumbnail: /style/image/bgimg1.jpg
 icon: book
 ---
 
@@ -11,11 +11,11 @@ icon: book
 * content
 {:toc}
 
-## sub title
+## 前言
 
-page...
+終於要大學畢業了，總感覺應該要記錄一下當下的心態還有對生活的一些焦慮，順便回顧一下大學生活
 
-## about thumbnail
+## 活動
 
 add the thumbnail url
 

@@ -1243,6 +1243,11 @@ textarea:-ms-input-placeholder {
     display: none
 }
 
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+.post-title-font{
+    font-family: 'cwTeXKai', sans-serif;
+}
 .post-title {
     font-size: 21px
 }
